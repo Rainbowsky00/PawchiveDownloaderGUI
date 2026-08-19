@@ -1,2 +1,0 @@
-"""Pawchive downloader package."""
-
